@@ -1,4 +1,4 @@
-#include <studio.h>
+
 
 int main(){
 /*
@@ -12,12 +12,12 @@ Pós-Decremento a--
 
 int numero1 = 1;
 
-printf("Antes incremento: %d\n", nuemro1);
+printf("Antes incremento: %d\n", numero1);
 numero1++;
-printf("Apos incremento: %d\n", nuemro1);
+printf("Apos incremento: %d\n", numero1);
 
 
 numero1--;
-printf("Apos decremento: %d\n", nuemro1);
+printf("Apos decremento: %d\n", numero1);
 
 }
