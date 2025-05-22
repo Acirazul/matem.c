@@ -13,6 +13,6 @@ printf("Diferença: %d/n", diferenca);
 printf("Produto: %d/n", produto);
 printf("Quociente: %d/n", quociente);
 
-resultado 0:
+return 0:
 
 }
