@@ -1,4 +1,4 @@
-#include <stdio.h>;
+#include <stdio.h>
 
 int main(){
 int a = 10;
@@ -13,6 +13,6 @@ printf("Diferença: %d/n", diferenca);
 printf("Produto: %d/n", produto);
 printf("Quociente: %d/n", quociente);
 
-return 0:
+return 0;
 
 }
