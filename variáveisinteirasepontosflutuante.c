@@ -2,7 +2,7 @@
 
 int main(){
 int a = 10;
-int a b = 3;
+int b = 3;
 int soma = a + b;
 int diferenca = a - b;
 int produto = a * b;
